@@ -1,0 +1,16 @@
+#{
+               margin: 0;
+}
+
+.banner{
+  background-image:url(B8A3-fruit-brust/images/banner4.png) ;
+  width: 1440px;
+height: 600px;
+flex-shrink: 0;
+color: aliceblue;
+text-align: center;
+justify-items: center;
+align-items: center;
+margin-top: 79px;
+gap: 20px;
+}
